@@ -1,0 +1,28 @@
+{
+  "_comment": "nombre completo de la app",
+  "name": "Flappy the Happy",
+  "_comment1": "nombre corto debajo del icono",
+  "short_name": "Flappy_the_happy",
+  "_comment2": "archivo que abre el juego",
+  "start_url": "index.html",
+  "_comment3": "sin barras de navegador",
+  "display": "standalone",
+  "_comment4": "color de fondo al iniciar",
+  "background_color": "#000000",
+  "_comment5": "color del sistema",
+  "theme_color": "#000000",
+  "_comment6": "orientación del juego",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "Icono.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Icono2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
