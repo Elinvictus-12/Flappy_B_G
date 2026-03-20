@@ -12,7 +12,7 @@ const FILES_TO_CACHE = [
   "F1.png",
   "F2.png",
   "F3.png",
-  "pipe.png",
+  "Pipe.png",
   "Light_it_Up.mp3",
   "Icono.png",
   "Icono2.png",
